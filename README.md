@@ -16,4 +16,4 @@ This repository includes:
 
   - Creating the RDF-based data split to reduce overlap between the development and test set found in the original split (under `src/data/create_new_split.py`)
 
-Feel free to reach out if you have any further questions.
+Feel free to reach out in `roee.aharoni@gmail.com` if you have any further questions! 
