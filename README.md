@@ -6,14 +6,14 @@ The data and some of the scripts are based on the repository by Narayan et al.: 
 
 This repository includes: 
 
-The proposed data split, under `data/baseline-seq2seq-split-RDFs-relations.zip`.
+- The proposed data split, under `data/baseline-seq2seq-split-RDFs-relations.zip`.
 
-Scripts for: 
+- Scripts for: 
 
-Training our proposed models using openNMT-py (under `src/training_scripts`)
+  - Training our proposed models using openNMT-py (under `src/training_scripts`)
 
-Evaluating the models as proposed by Narayan et al., 2017 (under `src/evaluate.py`)
+  - Evaluating the models as proposed by Narayan et al., 2017 (under `src/evaluate.py`)
 
-Creating the RDF-based data split to reduce overlap between the development and test set found in the original split (under `src/data/create_new_split.py`)
+  - Creating the RDF-based data split to reduce overlap between the development and test set found in the original split (under `src/data/create_new_split.py`)
 
 Feel free to reach out if you have any further questions.
