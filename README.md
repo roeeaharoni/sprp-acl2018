@@ -1,5 +1,7 @@
 **Data and source code accompanying the paper "Split and Rephrase: Better Evaluation and a Stronger Baseline".**
 
+https://arxiv.org/abs/1805.01035
+
 Roee Aharoni and Yoav Goldberg, ACL 2018 
 
 The data and some of the scripts are based on the repository by Narayan et al.: https://github.com/shashiongithub/Split-and-Rephrase
