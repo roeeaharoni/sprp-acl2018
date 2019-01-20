@@ -12,7 +12,7 @@ This repository includes:
 
 - The original data split, under `data/baseline-seq2seq.zip`.
 
-- The raw sentences and .id files required in the test.py and validate.py scripts, under `data/complex-sents.zip`.
+- The raw sentences and .id files required in the `test.py` and `validate.py` scripts, under `data/complex-sents.zip`.
 
 - Scripts for: 
 
