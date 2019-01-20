@@ -10,6 +10,10 @@ This repository includes:
 
 - The proposed data split, under `data/baseline-seq2seq-split-RDFs-relations.zip`.
 
+- The original data split, under `data/baseline-seq2seq.zip`.
+
+- The raw sentences and .id files required in the test.py and validate.py scripts, under `data/complex-sents.zip`.
+
 - Scripts for: 
 
   - Training our proposed models using openNMT-py (under `src/training_scripts`)
@@ -17,5 +21,11 @@ This repository includes:
   - Evaluating the models as proposed by Narayan et al., 2017 (under `src/evaluate.py`)
 
   - Creating the RDF-based data split to reduce overlap between the development and test set found in the original split (under `src/data/create_new_split.py`)
+
+Prerequisits:
+
+- PyTorch
+
+- openNMT-py
 
 Feel free to reach out in `roee.aharoni@gmail.com` if you have any further questions! 
