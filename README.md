@@ -14,7 +14,7 @@ This repository includes:
 
 - The raw sentences and .id files required in the `test.py` and `validate.py` scripts, under `data/complex-sents.zip`.
   
-  - Additional files required by the `test.py` and `validate.py` scripts of our models (i.e. `.../benchmark/...` and `.../evaluation-directories.../...` are available [here](https://drive.google.com/open?id=1KagOaUv1hlAK8ONYiyH6rXJHjGANk8Qj).
+  - Additional files required by the `test.py` and `validate.py` scripts of our models (i.e. under the `benchmark` and `evaluation-directories...` folders are available [here](https://drive.google.com/open?id=1KagOaUv1hlAK8ONYiyH6rXJHjGANk8Qj).
 
 - Scripts for: 
 
@@ -28,6 +28,6 @@ Prerequisits:
 
 - PyTorch
 
-- openNMT-py
+- openNMT-py (commit d4ab35a)
 
 Feel free to reach out in `roee.aharoni@gmail.com` if you have any further questions! 
