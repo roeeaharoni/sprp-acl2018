@@ -13,6 +13,8 @@ This repository includes:
 - The original data split, under `data/baseline-seq2seq.zip`.
 
 - The raw sentences and .id files required in the `test.py` and `validate.py` scripts, under `data/complex-sents.zip`.
+  
+  - Additional files required by the `test.py` and `validate.py` scripts (i.e. `.../benchmark/...` and `.../evaluation-directories.../...` are available [here](https://drive.google.com/open?id=1KagOaUv1hlAK8ONYiyH6rXJHjGANk8Qj).
 
 - Scripts for: 
 
